@@ -20,4 +20,9 @@ name="hello world"
 #letters can be access by indexing
 print("the first letter of string is {}\n".format(name[0]))
 #27-01-2020
+#python comparision operators
+#==,>,<,<=,>=comparision operators
+#2.0==2  returns true 
+#logical operators
+#and,or,not
 
